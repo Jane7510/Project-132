@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Lobster+Two&family=Patrick+Hand&display=swap');
+
+
+body {
+    text-align: center;
+}
+
+h1 {
+    font-family: 'Lobster Two', cursive;
+    color: black;
+}
+
+h3 {
+    font-family: 'Lobster Two', cursive;
+    color: white;
+    font-size: 26px;
+}
+
+canvas {
+    border: 2px solid grey;
+    border-radius: 10px;
+    box-shadow: 5px 5px 5px grey;
+    background-color: white;
+}
